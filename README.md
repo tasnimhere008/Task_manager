@@ -198,19 +198,3 @@ This project currently uses **in-memory storage** rather than a database. Tasks 
 - Deploy the API to a cloud platform
 - Add a frontend interface
 
-## Learning Objectives
-
-This project helps beginners understand:
-
-- REST API concepts
-- HTTP methods and status codes
-- Request and response handling
-- Data validation
-- Error handling
-- Backend server setup
-- API testing with Postman
-- Basic version control with Git
-
-## License
-
-This project is intended for educational and learning purposes. You may modify and extend it for your own practice.
